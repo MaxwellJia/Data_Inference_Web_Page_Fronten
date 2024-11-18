@@ -1,4 +1,4 @@
-# Data Type Inference Web Page
+# Data Type Inference Web Page(Frontend)
 
 A web-based tool for inferring and modifying data types of columns in a CSV file, built with React (Frontend) and Django (Backend).
 
@@ -31,7 +31,9 @@ Backend: [Data_Inference_Web_Page_Backend](https://github.com/MaxwellJia/Data_In
 
 ## Installation
 
-Follow these steps to install the project and its dependencies:
+Note: This web page is developed using webstorm and pycharm.
+
+Follow these steps to start the frontend of the project (in local terminal):
 
 1. Clone the repository to a directory(Example: frontend):
    ```bash
