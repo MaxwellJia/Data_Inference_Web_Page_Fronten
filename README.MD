@@ -19,7 +19,6 @@ Seamless integration between the React frontend and Django backend.
 Frontend (this repository): [Data_Inference_Web_Page_Frontend](https://github.com/MaxwellJia/Data_Inference_Web_Page_Frontend)
 Backend: [Data_Inference_Web_Page_Backend](https://github.com/MaxwellJia/Data_Inference_Web_Page_Backend)
 
-
 ## Project Workflow
 1. Upload: Users upload a CSV file via the frontend.
 
@@ -46,6 +45,9 @@ Follow these steps to start the frontend of the project (in local terminal):
 
 
 4. Jump to [README file in my-frontend](my-frontend/README.md) and use npm start to start the project.
+
+## Web Page Screen Shot
+![img](img.png)
 
 
 ## Contact Information
